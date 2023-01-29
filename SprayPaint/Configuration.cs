@@ -1172,6 +1172,518 @@ namespace SprayPaint
                         new Vehicle(62676, 62506)
                     }
                 ),
+                new Vehicles(62680,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62681,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507),
+                    }
+                ),
+                new Vehicles(62682,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62683,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62684,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62685,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62686, 62506),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62686,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62687, 62507)
+                    }
+                ),
+                new Vehicles(62687,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62680, 62500),
+                        new Vehicle(62681, 62501),
+                        new Vehicle(62682, 62502),
+                        new Vehicle(62683, 62503),
+                        new Vehicle(62684, 62504),
+                        new Vehicle(62685, 62505),
+                        new Vehicle(62686, 62506)
+                    }
+                ),
+                new Vehicles(62690,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62691, 62501),
+                        new Vehicle(62692, 62507),
+                        new Vehicle(62693, 62502),
+                    }
+                ),
+                new Vehicles(62691,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62690, 62500),
+                        new Vehicle(62692, 62507),
+                        new Vehicle(62693, 62502),
+                    }
+                ),
+                new Vehicles(62692,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62691, 62501),
+                        new Vehicle(62690, 62500),
+                        new Vehicle(62693, 62502),
+                    }
+                ),
+                new Vehicles(62693,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62691, 62501),
+                        new Vehicle(62692, 62507),
+                        new Vehicle(62690, 62500),
+                    }
+                ),
+                new Vehicles(62460,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62461,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507),
+                    }
+                ),
+                new Vehicles(62462,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62463,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62464,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62465,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62466, 62506),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62466,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62467, 62507)
+                    }
+                ),
+                new Vehicles(62467,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62460, 62500),
+                        new Vehicle(62461, 62501),
+                        new Vehicle(62462, 62502),
+                        new Vehicle(62463, 62503),
+                        new Vehicle(62464, 62504),
+                        new Vehicle(62465, 62505),
+                        new Vehicle(62466, 62506)
+                    }
+                ),
+                new Vehicles(62540,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62541,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507),
+                    }
+                ),
+                new Vehicles(62542,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62543,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62544,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62545,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62546, 62506),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62546,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62547, 62507)
+                    }
+                ),
+                new Vehicles(62547,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62540, 62500),
+                        new Vehicle(62541, 62501),
+                        new Vehicle(62542, 62502),
+                        new Vehicle(62543, 62503),
+                        new Vehicle(62544, 62504),
+                        new Vehicle(62545, 62505),
+                        new Vehicle(62546, 62506)
+                    }
+                ),
+                new Vehicles(62550,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62551,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507),
+                    }
+                ),
+                new Vehicles(62552,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62553,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62554,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62555,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62556, 62506),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62556,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62557, 62507)
+                    }
+                ),
+                new Vehicles(62557,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62550, 62500),
+                        new Vehicle(62551, 62501),
+                        new Vehicle(62552, 62502),
+                        new Vehicle(62553, 62503),
+                        new Vehicle(62554, 62504),
+                        new Vehicle(62555, 62505),
+                        new Vehicle(62556, 62506)
+                    }
+                ),
+                new Vehicles(62580,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62581,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507),
+                    }
+                ),
+                new Vehicles(62582,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62583,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62584,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62585,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62586, 62506),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62586,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62587, 62507)
+                    }
+                ),
+                new Vehicles(62587,
+                    new List<Vehicle>()
+                    {
+                        new Vehicle(62580, 62500),
+                        new Vehicle(62581, 62501),
+                        new Vehicle(62582, 62502),
+                        new Vehicle(62583, 62503),
+                        new Vehicle(62584, 62504),
+                        new Vehicle(62585, 62505),
+                        new Vehicle(62586, 62506)
+                    }
+                ),
             };
         }
     }
